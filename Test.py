@@ -1,0 +1,7 @@
+print("Hello world!")
+
+
+1. status   -   git status
+2. stage    -   git add   -A
+3. commit   -   git commit -m "Type your msg"
+4. push     -   git push
